@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f8f6ff;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #5a3eaf;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background: #5a3eaf;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #452e8a;
+  }
+  
+  .thought {
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .thought p {
+    margin: 5px 0;
+  }
+  
+  .actions {
+    margin-top: 8px;
+  }
+  
+  .smile-btn {
+    background: #ff85b3;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  
+  .smile-btn:hover {
+    opacity: 0.9;
+  }
+  
+  .reply {
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #5a3eaf;
+  }
+  
